@@ -13,6 +13,7 @@ Tetracube is a NES Tetris clone recreated using Python along with [Pygame](https
 ## Builds
 - There are no current builds avaliable for download (soon to come)
 - If you would like to build your own copy download all three .py files and the sounds folder and run main.py
+- Make sure that you have pygame preinstalled
 
 ## Credits
  - Sound effects created using the copyright free tool http://www.superflashbros.net/as3sfxr/
