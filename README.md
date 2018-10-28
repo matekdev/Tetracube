@@ -13,4 +13,6 @@ Tetracube is a NES Tetris clone recreated using Python along with [Pygame](https
 
 ![Tetracube](https://raw.githubusercontent.com/mzegar/Tetracube/master/screenshots/tetracube_img1.png "Tetracube")
 
+- Video of gameplay below
+
 [![Tetracube](http://img.youtube.com/vi/aAq9E4I4kYQ/0.jpg)](http://www.youtube.com/watch?v=aAq9E4I4kYQ)
