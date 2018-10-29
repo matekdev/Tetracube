@@ -1,0 +1,2 @@
+1. Place main.exe and sounds folder in the same directory
+2. Run main.exe
