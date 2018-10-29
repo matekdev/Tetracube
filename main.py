@@ -28,9 +28,6 @@ def shiftblocks(gameboard, y):
         for col in range(0, 10):
             gameboard[row+1][col] = rowvalues[(row*10)+col]
 
-    # Clear
-    rowvalues.clear()
-
 
 # Clears the blocks
 def clearblocks(gameboard):
