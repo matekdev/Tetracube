@@ -10,8 +10,10 @@ Tetracube is a NES Tetris clone recreated using Python along with [Pygame](https
   - R to reset or use mouse to click on restart button
   - M to mute or use mouse to click on mute button
 
-## Builds
-- There are no current builds avaliable for download (soon to come)
+## Windows
+- Go to Windows Build x64 and download main.exe and sounds
+- Place both the folder and main.exe in the same directory and run
+## Building
 - If you would like to build your own download then put all three .py files and the sounds folder (containing all sound files) in one directory and run main.py
 - Make sure that you have pygame preinstalled
 
