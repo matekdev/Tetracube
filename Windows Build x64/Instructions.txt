@@ -1,2 +1,3 @@
-1. Place main.exe and sounds folder in the same directory
-2. Run main.exe
+1. Create some folder or use a directory
+2. Place the sounds folder and main.exe in that folder/directory
+3. Launch main.exe
