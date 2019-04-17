@@ -1,5 +1,14 @@
-## Tetracube
-
+```
+  _______ ______ _______ _____            _____ _    _ ____  ______ 
+ |__   __|  ____|__   __|  __ \     /\   / ____| |  | |  _ \|  ____|
+    | |  | |__     | |  | |__) |   /  \ | |    | |  | | |_) | |__   
+    | |  |  __|    | |  |  _  /   / /\ \| |    | |  | |  _ <|  __|  
+    | |  | |____   | |  | | \ \  / ____ \ |____| |__| | |_) | |____ 
+    |_|  |______|  |_|  |_|  \_\/_/    \_\_____|\____/|____/|______|
+                                                                    
+```
+                                                                    
+                                                                    
 Tetracube is a NES Tetris clone recreated using Python along with [Pygame](https://www.pygame.org/news)
 
 - It features mechanics very similar to the NES Tetris game released
